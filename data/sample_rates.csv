@@ -1,0 +1,10 @@
+code,description,rate,source
+CN001,Consultation for OPD patients (Outpatient),150,SAMPLE - replace with official CGHS rate master
+CN002,Consultation for Inpatients,350,SAMPLE - replace with official CGHS rate master
+LB001,Complete Blood Count (CBC),200,SAMPLE - replace with official CGHS rate master
+LB002,Blood Sugar Fasting,40,SAMPLE - replace with official CGHS rate master
+RD001,X-Ray Chest PA view,150,SAMPLE - replace with official CGHS rate master
+RD002,X-Ray Chest Lateral view,150,SAMPLE - replace with official CGHS rate master
+CD001,ECG (Electrocardiogram),150,SAMPLE - replace with official CGHS rate master
+US001,Ultrasound Abdomen,500,SAMPLE - replace with official CGHS rate master
+RM001,Room rent - general ward,1000,SAMPLE - replace with official CGHS rate master
